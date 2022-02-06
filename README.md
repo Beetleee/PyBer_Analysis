@@ -10,8 +10,7 @@ I was tasked to analyze ride share data (Pyber) in order to provide and summariz
 
 Several key findings include: 
 - Urban cities: 
-    -highest demand for rides
-    -more drivers than suburban (more than four times)
+    -highest demand for rides (based on rides), and more drivers than suburban (more than four times) and rural
 - Suburban cities:
     -more drivers than rural (more than 6 times), with >4x the revenue. 
 - Rural cities:
