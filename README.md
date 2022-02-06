@@ -6,7 +6,7 @@ I was tasked to analyze ride share data (Pyber) in order to provide and summariz
 
 ## Results 
 
-![pyber_frame](https://github.com/DonnieData/PyBer_Analysis/blob/main/analysis/pyber_summary_frame.png)
+![pyber_frame](https://github.com/Beetleee/PyBer_Analysis/blob/main/Resources/Summary.png)
 
 Several key findings include: 
 - Urban cities: 
@@ -22,6 +22,6 @@ Several key findings include:
 ## Summary
 
 Based on the analysis my business recommendations are: 
-Increase the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand. 
-Data for rural cities shows that the average fare per ride and average fare per driver is much higher than Suburban and urban cities.This can indicate that rural area based riders are taking trips over a longer distance. This can result in a majority of drivers being occupied with current trips and loss in potential revenue when there are peaks in business. 
+
+The average fare per ride and driver is much higher in Rural than in both Suburban and Urban areas.  This data suggests that there may be less drivers available and longer rides in rural areas, which could cost revenue. Recommendations are to track time per ride for future, in order to see if more drivers are needed in rural areas -especially duing peak times during the day. Overall, this data indicates the need to increase the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand. 
 
