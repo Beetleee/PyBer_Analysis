@@ -7,7 +7,7 @@ I was tasked to analyze ride share data (Pyber) in order to provide and summariz
 ## Results 
 
 ![pyber_frame](https://github.com/Beetleee/PyBer_Analysis/blob/main/Resources/Summary.png)
-![pyber_frame](
+![pyber_frame](https://github.com/Beetleee/PyBer_Analysis/blob/main/Resources/summary2.png)
 
 Several key findings include: 
 - Urban cities: 
